@@ -1,0 +1,19 @@
+{
+    "Satellite_Number": 5,
+    "Simulation_Period": {
+        "Simulation_End": "2024-02-26 00:00:00",
+        "Simulation_Start": "2024-02-25 00:00:00"
+    },
+    "Spectrum_Range": {
+        "Maximum_Frequency": 12000,
+        "Minimum_Frequency": 12020
+    },
+    "Task_Distribute": {
+        "Distribute_Mean_1": 5600,
+        "Distribute_Mean_2": 939.13,
+        "Distribute_std_1": 900,
+        "Distribute_std_2": 560
+    },
+    "Task_Number": 1500,
+    "Unit_Bandwidth": 1
+}
